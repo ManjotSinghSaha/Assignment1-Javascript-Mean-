@@ -1,3 +1,12 @@
+/*
+File Name: Main.css
+Author's name: Manjot Singh Saha
+Website name: My Portfolio
+File description: This file contains all the css which is used by website.
+*/
+
+/* I have copied the nav bar code from w3Schhols. Link- https://www.w3schools.com/howto/howto_js_topnav.asp */
+
 body {
     padding: 30px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
@@ -19,6 +28,8 @@ a h1:hover {
     text-decoration: none;
 }
 
+/*This is for the nav bar*/
+/*Start*/
 .topnav {
     overflow: hidden;
     background-color: #333;
@@ -42,6 +53,7 @@ a h1:hover {
     background-color: #4CAF50;
     color: white;
 }
+/*end*/
 
 h2 {
     margin-top: 30px;
@@ -52,7 +64,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 350px;
-    height: 300px;
+    height: 320px;
 }
 
 .info h3 {
