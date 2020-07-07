@@ -1,10 +1,61 @@
 body {
-    padding: 50px;
+    padding: 30px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
-    color: #00B7FF;
+    text-decoration: none;
 }
 
+h1 {
+    font-size: 45px;
+    font-family: bree serif;
+    color:  brown;
+    font-weight: 900;
+}
+
+a h1:hover {
+    color: darkturquoise;
+    text-decoration: none;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 300px;
+}
+
+.info h3 {
+    text-align: center;
+}
 

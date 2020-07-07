@@ -31,15 +31,9 @@
   <ItemGroup>
     <Content Include="app.js" />
     <Content Include="routes\index.js" />
-    <Content Include="routes\about.js" />
     <Content Include="package.json" />
     <Content Include="public\stylesheets\main.css" />
     <Content Include="README.md" />
-    <Content Include="routes\contact.js" />
-    <Content Include="routes\projects.js" />
-    <Content Include="routes\services.js">
-      <SubType>Code</SubType>
-    </Content>
     <Content Include="views\services.pug" />
     <Content Include="views\projects.pug" />
     <Content Include="views\contact.pug" />
